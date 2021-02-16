@@ -1,9 +1,9 @@
 ### Welcome to my profile 👋
 
-Here is some **data** that you can **fetch** about me:
+You have successfully ***fetched*** an ***API*** point containing some ***data*** about me:
 
 - 🌱 I’m currently learning React with Redux
-- 📫 How to reach me: 
+- 📞 How to reach me: 
   - [My website](http://janstaffa.cz/)
   - [Instagram](https://www.instagram.com/janstaffa/)
   - [E-mail](mailto:jstaffa@janstaffa.cz)
