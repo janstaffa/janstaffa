@@ -7,7 +7,7 @@
   - Node.js with Express
   - React.js
   - MERN stack
-  - PHP + jQuery⁉
+  - PHP + jQuery ⁉
 
 - 📞 How to reach me: 
   - [My website](http://janstaffa.cz/)
