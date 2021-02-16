@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my profile 👋
 
 Here are some ideas to get you started:
 
@@ -7,5 +7,5 @@ Here are some ideas to get you started:
   - [My website](http://janstaffa.cz/)
   - [Instagram](https://www.instagram.com/janstaffa/)
   - [E-mail](mailto:jstaffa@janstaffa.cz)
-- 😄 Pronouns: ... He/Him
+
 - ⚡ Fun fact: ...
