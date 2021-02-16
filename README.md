@@ -1,7 +1,7 @@
 ### Welcome to my profile 👋
 
-Here are some ideas to get you started:
-
+Here is some information about me:
+<script>alert('hi');</script>
 - 🌱 I’m currently learning React with Redux
 - 📫 How to reach me: 
   - [My website](http://janstaffa.cz/)
