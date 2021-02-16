@@ -3,6 +3,12 @@
 ### Here is some **data** that you can **fetch** about me:
 
 - 🌱 I’m currently learning React with Redux
+- 🧠 Points of interest:
+  - Node.js with Express
+  - React.js
+  - MERN stack
+  - 😂PHP + jQuery🤣
+
 - 📞 How to reach me: 
   - [My website](http://janstaffa.cz/)
   - [Instagram](https://www.instagram.com/janstaffa/)
