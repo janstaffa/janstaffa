@@ -3,6 +3,7 @@
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React with Redux
-- 📫 How to reach me: [My website](http://janstaffa.cz/) ![](https://www.instagram.com/static/images/ico/apple-touch-icon-76x76-precomposed.png/666282be8229.png =100x20) [Instagram](https://www.instagram.com/janstaffa/)
+- 📫 How to reach me: [My website](http://janstaffa.cz/) <img src="drawing.jpg" alt="drawing" width="200"/>
+[Instagram](https://www.instagram.com/janstaffa/)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ...
