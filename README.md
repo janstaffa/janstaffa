@@ -21,4 +21,4 @@
   - [virtual second hand](http://bazarek.jednoduse.cz/)
   - much more...😎
 
-- ⚡ Fun fact: I started coding at 13
+- ⚡ Fun fact: I started coding in JAVA at 13
