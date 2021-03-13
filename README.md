@@ -6,7 +6,9 @@
 - 🧠 Points of interest:
   - Node.js with Express
   - React.js
-  - MERN stack
+  - GraphQl
+  - Next.js
+  - PERN stack(Postgres, Express, React, Node)
   - PHP + jQuery ⁉
 
 - 📞 How to reach me: 
