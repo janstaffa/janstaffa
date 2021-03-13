@@ -7,7 +7,6 @@
   - Node.js with Express
   - React.js
   - GraphQl
-  - Next.js
   - PERN stack(Postgres, Express, React, Node)
   - PHP + jQuery ⁉
 
@@ -20,5 +19,18 @@
   - [ja-ma tailor studio website](https://ja-ma.cz/)
   - [virtual second hand](http://bazarek.jednoduse.cz/)
   - much more...😎
+
+- Bio:
+  - JS
+  - React
+  - Node.js + Express
+  - Next.js
+  - PostgreS + Knex.js
+  - GraphQL + Apollo
+  - MongoDB
+  - PHP
+  - Python
+  - HTML
+  - CSS
 
 - ⚡ Fun fact: I started coding in JAVA at 13
