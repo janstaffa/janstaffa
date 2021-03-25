@@ -21,7 +21,7 @@
   - much more...😎
 
 - Bio:
-  - JS
+  - Typescript
   - React
   - Node.js + Express
   - Next.js
