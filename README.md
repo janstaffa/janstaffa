@@ -25,8 +25,8 @@
   - React
   - Node.js + Express
   - Next.js
-  - PostgreS + Knex.js
-  - GraphQL + Apollo
+  - PostgreSQL
+  - GraphQL
   - MongoDB
   - PHP
   - Python
