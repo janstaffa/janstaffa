@@ -4,9 +4,9 @@
 
 - 🌱 I’m currently learning Typescript
 - 🧠 Points of interest:
-  - Node.js with Express
+  - Typescript
+  - GraphQL
   - React.js
-  - GraphQl
   - PERN stack(Postgres, Express, React, Node)
   - PHP + jQuery ⁉
 
