@@ -23,10 +23,10 @@
 - Bio:
   - Typescript
   - React
+  - GraphQL
   - Node.js + Express
   - Next.js
   - PostgreSQL
-  - GraphQL
   - MongoDB
   - PHP
   - Python
