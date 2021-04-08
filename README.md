@@ -2,7 +2,7 @@
 
 ### Here is some **data** that you can **fetch** about me:
 
-- 🌱 I’m currently learning Typescript
+- 🌱 I’m currently building [Biscit](https://github.com/janstaffa/biscit)
 - 🧠 Points of interest:
   - Typescript
   - GraphQL
