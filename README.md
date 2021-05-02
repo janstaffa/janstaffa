@@ -20,7 +20,7 @@
   - [virtual second hand](http://bazarek.jednoduse.cz/)
   - much more...😎
 
-- Bio:
+- Technologies:
   - Typescript
   - React
   - GraphQL
