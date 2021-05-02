@@ -32,5 +32,3 @@
   - Python
   - HTML
   - CSS
-
-- ⚡ Fun fact: I started coding in JAVA at 13, I'm also a Typescript simp🤣
