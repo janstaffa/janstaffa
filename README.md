@@ -1,12 +1,12 @@
 ## Hi, i'm John
 
 ### Programing languages:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="/images/js.png" height="30px"></a>&nbsp;
+<a href="https://www.rust-lang.org/" target="_blank"><img src="/images/rust.png" height="30px"></a>&nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="/images/ts.png" height="30px"></a>&nbsp;
 <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="/images/html.png" height="30px"></a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="/images/css.png" height="30px"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="/images/js.png" height="30px"></a>&nbsp;
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="/images/ts.png" height="30px"></a>&nbsp;
 <a href="https://www.python.org/" target="_blank"><img src="/images/python.png" height="30px"></a>&nbsp;
-<a href="https://www.rust-lang.org/" target="_blank"><img src="/images/rust.png" height="30px"></a>&nbsp;
 <a href="https://www.php.net/" target="_blank"><img src="/images/php.png" height="30px"></a>&nbsp;
 
 
