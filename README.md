@@ -24,6 +24,7 @@
   <a href="https://www.instagram.com/janstaffa/" target="_blank"><img src="/images/instagram.png" height="30px"></a>&nbsp;
   <a href="mailto:jstaffa@janstaffa.cz" target="_blank"><img src="/images/email.png" height="30px"></a>&nbsp;
 ### Projects:
+  - [graphical calculator](https://janstaffa.github.io/calculator/)
   - [fun/testing](https://janstaffa.github.io/)
   - [Kangaroo house website](http://klokanek-sterboholy.cz/)
   - [ja-ma tailor studio website](https://ja-ma.cz/)
