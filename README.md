@@ -1,33 +1,20 @@
-## Hi, i'm John
+## Hi, i'm Jan Štaffa
 
-### Programing languages:
+### Programing languages/technologies
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="/images/ts.png" height="30px"></a>&nbsp;
-<a href="https://www.rust-lang.org/" target="_blank"><img src="/images/rust.png" height="30px"></a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="/images/js.png" height="30px"></a>&nbsp;
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="/images/html.png" height="30px"></a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank"><img src="/images/css.png" height="30px"></a>&nbsp;
 <a href="https://www.python.org/" target="_blank"><img src="/images/python.png" height="30px"></a>&nbsp;
+<a href="https://kotlinlang.org/" target="_blank"><img src="/images/kotlin.png" height="30px"></a>&nbsp;
+<a href="https://www.rust-lang.org/" target="_blank"><img src="/images/rust.png" height="30px"></a>&nbsp;
+<a href="https://react.dev/" target="_blank"><img src="/images/react.png" height="30px"></a>&nbsp;
+<a href="https://www.postgresql.org/" target="_blank"><img src="/images/psql.png" height="30px"></a>&nbsp;
+<a href="https://graphql.org/" target="_blank"><img src="/images/gql.png" height="30px"></a>&nbsp;
 <a href="https://www.php.net/" target="_blank"><img src="/images/php.png" height="30px"></a>&nbsp;
 
 
-### Technologies:
-<a href="https://code.visualstudio.com/" target="_blank"><img src="/images/vscode.png" height="30px"></a>&nbsp;
-<a href="https://www.vim.org/" target="_blank"><img src="/images/vim.png" height="30px"></a>&nbsp;
-<a href="https://git-scm.com/" target="_blank"><img src="/images/git.png" height="30px"></a>&nbsp;
-<a href="https://reactjs.org/" target="_blank"><img src="/images/react.png" height="30px"></a>&nbsp;
-<a href="https://www.microsoft.com/windows/" target="_blank"><img src="/images/windows.png" height="30px"></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="/images/original/psql.png" height="30px"></a>&nbsp;
-<a href="https://graphql.org/" target="_blank"><img src="/images/gql.png" height="30px"></a>&nbsp;
 
-### Socials:
-  <a href="http://janstaffa.cz" target="_blank"><img src="/images/website.png" height="30px"></a>&nbsp;
-  <a href="https://www.instagram.com/janstaffa/" target="_blank"><img src="/images/instagram.png" height="30px"></a>&nbsp;
-  <a href="mailto:jstaffa@janstaffa.cz" target="_blank"><img src="/images/email.png" height="30px"></a>&nbsp;
-### Projects:
-  - [Krestgym website](https://krestgym.cz)
-  - [graphical calculator](https://janstaffa.github.io/calculator/)
-  - [Kangaroo house website](http://klokanek-sterboholy.cz/)
-  - [ja-ma tailor studio website](https://ja-ma.cz/)
-  - [virtual second hand](http://bazarek.jednoduse.cz/)
-  - [fun/testing](https://janstaffa.github.io/)
-  - ...
+
+### Web projects
+  - [Křesťanské gymnázium](https://krestgym.cz)
+  - [Klokánek Štěrboholy](http://klokanek-sterboholy.cz/)
+  - [Krejčovství ja-ma ](https://ja-ma.cz/)
+  - [Virtuální bazárek u sv. Terezičky](http://bazarek.jednoduse.cz/)
